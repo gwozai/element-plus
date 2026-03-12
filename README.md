@@ -165,6 +165,7 @@ $ npm run newfile
 
 #### 交互参考
 
+- [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)
 - [vite-shadcn](https://github.com/yluiop123/vite-shadcn)
 - [tdesign](https://tdesign.tencent.com/starter/vue-next/dashboard/base)
 - [mineadmin](https://www.mineadmin.com/)
